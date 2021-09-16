@@ -1,2 +1,2 @@
-# TickTock
-Use this clock to avoid delays
+# p5.play-boilerplate
+Boiler plate for p5.play
